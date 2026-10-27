@@ -9,7 +9,6 @@ Atualmente venho desenvolvendo projetos com **Python, HTML, CSS e JavaScript**, 
 ---
 
 ## 🚀 Sobre mim
-
 - 📍 Rio de Janeiro, Brasil
 - 💻 Interesse em Desenvolvimento Web e Programação
 - 🐍 Desenvolvendo projetos com Python
@@ -81,13 +80,11 @@ Projetos e exercícios voltados ao desenvolvimento de interfaces e aplicações 
 ---
 
 ## 📚 Atualmente estudando
-
 `Desenvolvimento Web` • `Python` • `JavaScript` • `Banco de Dados` • `Git e GitHub` • `Inteligência Artificial` • `Machine Learning`
 
 ---
 
 ## 🎯 Objetivos
-
 Meu objetivo é continuar evoluindo como desenvolvedor, fortalecer meus conhecimentos em desenvolvimento web e Python e construir projetos que resolvam problemas reais.
 
 ---
@@ -96,16 +93,15 @@ Meu objetivo é continuar evoluindo como desenvolvedor, fortalecer meus conhecim
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azevedosilvadavid-stack&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsilvaazevedo&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azevedosilvadavid-stack&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilvaazevedo&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
 ## 🤝 Vamos nos conectar
-
 Se quiser conversar sobre tecnologia, desenvolvimento ou projetos, fique à vontade para entrar em contato comigo.
 
 ---
