@@ -107,6 +107,7 @@ Plataforma web de base de conhecimento para equipes de suporte de TI. Reúne pes
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilvaazevedo&layout=compact&hide_border=true&locale=pt-br)
 
+<img width="4032" height="1594" alt="image" src="https://github.com/user-attachments/assets/47467cfb-7708-4d4a-a24e-801fce5aa1dc" />
 ---
 
 ## 🤝 Contato
