@@ -17,7 +17,7 @@ Sou estudante e entusiasta de tecnologia, com foco em **desenvolvimento de softw
 
 ---
 
-## ⭐ Projeto em destaque
+## ⭐ Projetos em destaque
 
 ### 🛠️ Sistema Help Desk em Python
 
@@ -33,7 +33,25 @@ Sistema desktop para gerenciamento de chamados de TI, com login seguro, três pe
 
 👉 **[Ver repositório](https://github.com/davidsilvaazevedo/sistema-helpdesk-python)**
 
-![Dashboard do Sistema Help Desk](https://raw.githubusercontent.com/davidsilvaazevedo/sistema-helpdesk-python/main/screenshots/dashboard.png)
+<img width="1905" height="1071" alt="Dashboard do Sistema Help Desk" src="https://github.com/user-attachments/assets/3a4d0906-abe7-4841-ba67-d1a422ff2ce6" />
+
+---
+
+### 📚 Central de Conhecimento – SharePoint
+
+Plataforma web de base de conhecimento para equipes de suporte de TI. Reúne pesquisa de soluções, registro e validação de artigos, trilhas de diagnóstico, respostas padronizadas e indicadores, com dados no SharePoint Online e login pelo Microsoft Entra ID.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**Destaques:** integração com Microsoft Lists • controle de acesso por perfil • ciclo de validação e revisão de conteúdo • backup e exportação • temas claro, escuro e alto contraste
+
+👉 **[Ver repositório](https://github.com/davidsilvaazevedo/central-conhecimento-sharepoint)**
+
+![Pesquisa de soluções da Central de Conhecimento](https://raw.githubusercontent.com/davidsilvaazevedo/central-conhecimento-sharepoint/main/screenshots/pesquisa.png)
 
 ---
 
@@ -61,6 +79,7 @@ Sistema desktop para gerenciamento de chamados de TI, com login seguro, três pe
 **Dados e Machine Learning**
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
@@ -77,15 +96,16 @@ Sistema desktop para gerenciamento de chamados de TI, com login seguro, três pe
 - [x] Sistema desktop com Python, Tkinter e SQLite
 - [ ] Versão web do Help Desk com Flask e API REST
 - [ ] Estudar PostgreSQL e deploy de aplicações
+- [x] Plataforma web integrada ao SharePoint
 - [ ] Publicar os demais projetos no GitHub
 
 ---
 
 ## 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=azevedosilvadavid-stack&show_icons=true&theme=default&hide_border=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidsilvaazevedo&show_icons=true&theme=default&hide_border=true&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=azevedosilvadavid-stack&layout=compact&hide_border=true&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilvaazevedo&layout=compact&hide_border=true&locale=pt-br)
 
 ---
 
