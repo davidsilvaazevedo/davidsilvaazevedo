@@ -103,9 +103,9 @@ Plataforma web de base de conhecimento para equipes de suporte de TI. Reúne pes
 
 ## 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidsilvaazevedo&show_icons=true&theme=default&hide_border=true&locale=pt-br,en-us)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidsilvaazevedo&show_icons=true&theme=default&hide_border=true&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilvaazevedo&layout=compact&hide_border=true&locale=pt-br,en-us)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilvaazevedo&layout=compact&hide_border=true&locale=pt-br)
 
 ---
 
