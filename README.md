@@ -57,8 +57,6 @@ Plataforma web voltada à organização e consulta de conhecimento para atendime
 - Temas e acessibilidade
 - Integração com listas do SharePoint
 
-<img width="4032" height="348" alt="image" src="https://github.com/user-attachments/assets/e2715e36-4f66-4fa7-81ef-e65b4ebb84a1" />
-
 ### 📚 Gerenciador de Biblioteca
 Projeto desenvolvido em Python para praticar lógica de programação e organização de dados.
 
