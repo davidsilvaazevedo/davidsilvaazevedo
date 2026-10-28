@@ -91,7 +91,7 @@ Sistema desktop para gerenciamento de chamados de TI, com login seguro, três pe
 
 ## 🤝 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-azevedosilvadavid--stack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidsilvaazevedo)
+[![GitHub](https://img.shields.io/badge/GitHub-davidsilvaazevedo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidsilvaazevedo)
 
 <!-- Para adicionar o LinkedIn, apague esta linha e a última linha deste bloco, e troque SEU_LINKEDIN pelo seu link.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
