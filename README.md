@@ -51,7 +51,7 @@ Plataforma web de base de conhecimento para equipes de suporte de TI. Reúne pes
 
 👉 **[Ver repositório](https://github.com/davidsilvaazevedo/central-conhecimento-sharepoint)**
 
-<img width="1032" height="920" alt="pesquisa_de_soluções" src="https://github.com/user-attachments/assets/5c4844c4-3559-467b-8512-fc035783588b" />
+<img width="1032" height="920" alt="Pesquisa de soluções da Central de Conhecimento" src="https://github.com/user-attachments/assets/5c4844c4-3559-467b-8512-fc035783588b" />
 
 ---
 
@@ -94,25 +94,21 @@ Plataforma web de base de conhecimento para equipes de suporte de TI. Reúne pes
 ## 🎯 Próximos passos
 
 - [x] Sistema desktop com Python, Tkinter e SQLite
+- [x] Plataforma web integrada ao SharePoint
 - [ ] Versão web do Help Desk com Flask e API REST
 - [ ] Estudar PostgreSQL e deploy de aplicações
-- [x] Plataforma web integrada ao SharePoint
 - [ ] Publicar os demais projetos no GitHub
 
 ---
 
 ## 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=davidsilvaazevedo&show_icons=true&theme=default&hide_border=true&locale=pt-br,en-us)
+![Estatísticas do GitHub](https://gh-stats.com/api?username=davidsilvaazevedo)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilvaazevedo&layout=compact&hide_border=true&locale=pt-br,en-us)
+![Linguagens mais usadas](https://gh-stats.com/api/top-langs?username=davidsilvaazevedo)
 
 ---
 
 ## 🤝 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-davidsilvaazevedo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidsilvaazevedo)
-
-<!-- Para adicionar o LinkedIn, apague esta linha e a última linha deste bloco, e troque SEU_LINKEDIN pelo seu link.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
--->
