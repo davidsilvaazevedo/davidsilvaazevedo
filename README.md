@@ -31,9 +31,9 @@ Sistema desktop para gerenciamento de chamados de TI, com login seguro, três pe
 
 **Destaques:** senhas com hash e salt • controle de acesso nas regras de negócio • arquitetura em camadas • testes automatizados
 
-👉 **[Ver repositório](https://github.com/azevedosilvadavid-stack/sistema-helpdesk-python)**
+👉 **[Ver repositório](https://github.com/davidsilvaazevedo/sistema-helpdesk-python)**
 
-![Dashboard do Sistema Help Desk](https://raw.githubusercontent.com/azevedosilvadavid-stack/sistema-helpdesk-python/main/screenshots/dashboard.png)
+![Dashboard do Sistema Help Desk](https://raw.githubusercontent.com/davidsilvaazevedo/sistema-helpdesk-python/main/screenshots/dashboard.png)
 
 ---
 
