@@ -51,7 +51,7 @@ Plataforma web de base de conhecimento para equipes de suporte de TI. Reúne pes
 
 👉 **[Ver repositório](https://github.com/davidsilvaazevedo/central-conhecimento-sharepoint)**
 
-![Pesquisa de soluções da Central de Conhecimento](https://raw.githubusercontent.com/davidsilvaazevedo/central-conhecimento-sharepoint/main/screenshots/pesquisa.png)
+<img width="1032" height="920" alt="pesquisa_de_soluções" src="https://github.com/user-attachments/assets/5c4844c4-3559-467b-8512-fc035783588b" />
 
 ---
 
