@@ -101,10 +101,6 @@ Plataforma web de base de conhecimento para equipes de suporte de TI. Reúne pes
 
 ---
 
-## 📈 GitHub Stats
-
-![Estatísticas do GitHub](https://gh-stats.com/api?username=davidsilvaazevedo)
-
 ![Linguagens mais usadas](https://gh-stats.com/api/top-langs?username=davidsilvaazevedo)
 
 ---
