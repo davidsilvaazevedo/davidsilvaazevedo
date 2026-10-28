@@ -2,112 +2,97 @@
 
 ### Desenvolvedor em formação | Python • Web • Banco de Dados • IA
 
-Sou estudante e entusiasta de tecnologia, com foco em **desenvolvimento de software, aplicações web, automação e análise de dados**. Gosto de transformar ideias e necessidades do dia a dia em soluções práticas usando programação.
-
-Atualmente venho desenvolvendo projetos com **Python, HTML, CSS e JavaScript**, além de estudar banco de dados, Machine Learning e integração de aplicações.
+Sou estudante e entusiasta de tecnologia, com foco em **desenvolvimento de software, aplicações web, automação e análise de dados**. Gosto de transformar necessidades do dia a dia em soluções práticas usando programação.
 
 ---
 
 ## 🚀 Sobre mim
+
 - 📍 Rio de Janeiro, Brasil
-- 💻 Interesse em Desenvolvimento Web e Programação
 - 🐍 Desenvolvendo projetos com Python
 - 🌐 Criando aplicações com HTML, CSS e JavaScript
-- 🗃️ Estudando bancos de dados e SQLite
+- 🗃️ Estudando bancos de dados e SQL
 - 🤖 Explorando Inteligência Artificial e Machine Learning
-- 🔗 Aprendendo integração de aplicações e serviços
 - 📚 Sempre buscando evoluir através de novos projetos
+
+---
+
+## ⭐ Projeto em destaque
+
+### 🛠️ Sistema Help Desk em Python
+
+Sistema desktop para gerenciamento de chamados de TI, com login seguro, três perfis de acesso (Administrador, Técnico e Usuário), CRUD completo e dashboard com gráficos gerados a partir dos dados reais do banco.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-1E3A5F?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**Destaques:** senhas com hash e salt • controle de acesso nas regras de negócio • arquitetura em camadas • testes automatizados
+
+👉 **[Ver repositório](https://github.com/azevedosilvadavid-stack/sistema-helpdesk-python)**
+
+![Dashboard do Sistema Help Desk](https://raw.githubusercontent.com/azevedosilvadavid-stack/sistema-helpdesk-python/main/screenshots/dashboard.png)
+
+---
+
+## 📂 Outros projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 📚 Gerenciador de Biblioteca | Cadastro e controle de livros | Python |
+| 📊 Análise de Vendas | Análise de dados de vendas com gráficos | Python, SQLite, Pandas, Matplotlib, Seaborn |
+| 🌸 Classificação Iris | Modelo de Machine Learning para classificar flores | Python, TensorFlow |
+
+> Os repositórios destes projetos serão publicados em breve.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Linguagens
+**Linguagens**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Dados e Machine Learning
+**Dados e Machine Learning**
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Ferramentas
+**Ferramentas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## ⭐ Projetos em destaque
+## 🎯 Próximos passos
 
-### 🧠 Central de Conhecimento
-Plataforma web voltada à organização e consulta de conhecimento para atendimento e suporte.
-
-`HTML` `CSS` `JavaScript` `SharePoint` `Microsoft Lists`
-
-- Cadastro e organização de conteúdos
-- Artigos e soluções
-- Trilhas de atendimento
-- Respostas padronizadas
-- Favoritos
-- Perfis de acesso
-- Interface responsiva
-- Temas e acessibilidade
-- Integração com listas do SharePoint
-
-### 📚 Gerenciador de Biblioteca
-Projeto desenvolvido em Python para praticar lógica de programação e organização de dados.
-
-`Python`
-
-### 📊 Análise de Vendas
-Projeto de análise e manipulação de dados utilizando Python e banco de dados.
-
-`Python` `SQLite` `Pandas` `Matplotlib` `Seaborn`
-
-### 🌸 Classificação Iris
-Projeto de Machine Learning utilizando o conjunto de dados Iris.
-
-`Python` `TensorFlow`
-
-### 🌐 Projetos Web
-Projetos e exercícios voltados ao desenvolvimento de interfaces e aplicações para web.
-
-`HTML` `CSS` `JavaScript`
+- [x] Sistema desktop com Python, Tkinter e SQLite
+- [ ] Versão web do Help Desk com Flask e API REST
+- [ ] Estudar PostgreSQL e deploy de aplicações
+- [ ] Publicar os demais projetos no GitHub
 
 ---
 
-## 📚 Atualmente estudando
-`Desenvolvimento Web` • `Python` • `JavaScript` • `Banco de Dados` • `Git e GitHub` • `Inteligência Artificial` • `Machine Learning`
+## 📈 GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=azevedosilvadavid-stack&show_icons=true&theme=default&hide_border=true&locale=pt-br)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=azevedosilvadavid-stack&layout=compact&hide_border=true&locale=pt-br)
 
 ---
 
-## 🎯 Objetivos
-Meu objetivo é continuar evoluindo como desenvolvedor, fortalecer meus conhecimentos em desenvolvimento web e Python e construir projetos que resolvam problemas reais.
+## 🤝 Contato
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-azevedosilvadavid--stack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azevedosilvadavid-stack)
 
-## 📈 Git Hub Status
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidsilvaazevedo&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilvaazevedo&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Vamos nos conectar
-Se quiser conversar sobre tecnologia, desenvolvimento ou projetos, fique à vontade para entrar em contato comigo.
-
----
-
-<div align="center">
-
-### 💻 Transformando aprendizado em projetos, um commit de cada vez.
-
-</div>
+<!-- Para adicionar o LinkedIn, apague esta linha e a última linha deste bloco, e troque SEU_LINKEDIN pelo seu link.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+-->
